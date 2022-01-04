@@ -1,7 +1,7 @@
 # My Elite Qualifier
 
 
-Simple (or clever and funny?) description
+Scraping tool for Elite Qualifier
 
 ## Table of Contents
 
