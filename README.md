@@ -30,3 +30,9 @@ The first part of the code above the "---" are an example of a scrape from reddi
 
 ### Any optional sections
 
+## Test Plan
+
+To test the project:
+
+1. Run the test
+2. Check the results
