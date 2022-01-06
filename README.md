@@ -27,3 +27,12 @@ Install [python] (https://www.python.org/) on your computer (or Visual Studio Co
 
 
 The first part of the code above the "---" are an example of a scrape from reddit. below the "---" lines where the comment is input the set of words/sentences you would like to scrape.
+
+### Any optional sections
+
+
+## Test Plan
+To test the project:
+
+1. Run the test
+2. Check the results
